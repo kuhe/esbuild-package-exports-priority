@@ -25,9 +25,9 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
   mod
 ));
 
-// node_modules/my-package/entrypoint-node.js
+// node_modules/@myscope/my-package/entrypoint-node.js
 var require_entrypoint_node = __commonJS({
-  "node_modules/my-package/entrypoint-node.js"() {
+  "node_modules/@myscope/my-package/entrypoint-node.js"() {
     console.log("imported entrypoint-node.js");
   }
 });

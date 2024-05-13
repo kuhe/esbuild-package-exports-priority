@@ -26,9 +26,9 @@
     mod
   ));
 
-  // node_modules/my-package/entrypoint-import.js
+  // node_modules/@myscope/my-package/entrypoint-import.js
   var require_entrypoint_import = __commonJS({
-    "node_modules/my-package/entrypoint-import.js"() {
+    "node_modules/@myscope/my-package/entrypoint-import.js"() {
       console.log("imported entrypoint-import.js");
     }
   });

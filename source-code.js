@@ -1,3 +1,3 @@
-import * as pkg from "my-package/entrypoint";
+import * as pkg from "@myscope/my-package/entrypoint";
 
 console.log(pkg);
